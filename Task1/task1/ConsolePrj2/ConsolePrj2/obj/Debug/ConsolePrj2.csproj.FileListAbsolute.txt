@@ -1,0 +1,9 @@
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Debug\ConsolePrj2.exe.config
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Debug\ConsolePrj2.exe
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Debug\ConsolePrj2.pdb
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Debug\ConsolePrj2.csprojResolveAssemblyReference.cache
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Debug\ConsolePrj2.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Debug\ConsolePrj2.exe
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Debug\ConsolePrj2.pdb
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Debug\LibPrj3.dll
+C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Debug\LibPrj3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\bin\Release\LibPrj3.dll
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\bin\Release\LibPrj3.pdb
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Release\LibPrj3.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Release\LibPrj3.dll
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Release\LibPrj3.pdb

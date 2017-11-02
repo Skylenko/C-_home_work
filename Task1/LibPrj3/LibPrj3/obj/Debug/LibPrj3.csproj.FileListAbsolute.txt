@@ -1,0 +1,6 @@
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\bin\Debug\LibPrj3.dll
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\bin\Debug\LibPrj3.pdb
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Debug\LibPrj3.csprojResolveAssemblyReference.cache
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Debug\LibPrj3.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Debug\LibPrj3.dll
+C:\Users\Yuliia_Mykhailenko\source\repos\LibPrj3\LibPrj3\obj\Debug\LibPrj3.pdb
