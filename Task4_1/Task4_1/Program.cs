@@ -1,20 +1,25 @@
 ﻿namespace Task4_1
 {
-    class Square
+    class Program
     {
         static void Main(string[] args)
         {
-            int sideLength = 9;
-            int perimetr = Perimetr(sideLength);
-            int sq = SquareForm(sideLength);
-        }
+            Square square = new Square();
 
-        static int Perimetr (int a)
+            int perimetr = square.Perimetr();
+            int sq = square.SquareForm();
+        }
+    }
+
+    class Square
+    {
+        int a = 9;
+        public int Perimetr()
         {
             return 4 * a;
         }
 
-        static int SquareForm (int a)
+        public int SquareForm()
         {
             return a * a;
         }

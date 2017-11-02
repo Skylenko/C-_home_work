@@ -1,48 +1,49 @@
 ﻿namespace Task4_2
 {
-    class ArifmProgres
+    class Program
     {
         static void Main(string[] args)
         {
-            int a = 1;
-            int d = 2;
-            int n = 3;
-
-           // double rez = AverageOfFirstN(a, d, n);
-
-            int rez2 = SumOfFirstN(a, d, n);
+            ArifmProgres arifm = new ArifmProgres();
+            double rez2 = arifm.SumOfFirstN();
         }
 
         //static double AverageOfFirstN(int a, int d, int n)
-        //{
-        //    double rez = 0;
-        //    int counter = 0;
-        //    int current = a;
 
-        //    while (counter < n)
-        //    {
-        //        rez += current;
-        //        current = current + (n - 1) * d;
-        //        n--;
-        //        counter++;
-        //    }
-        //    return rez / n;
-        //}
 
-        static int SumOfFirstN(int a, int d, int n)
+
+    }
+
+    class ArifmProgres
+    {
+        int a = 3;
+        int d = 2;
+        int n = 1;
+
+        public double SumOfFirstN()
         {
-            int rez2 = 0;
+            //    int current = a;
+            //    int sum = 0;
+            //    for (int i = current; i <= n; i++)
+            //    {
+            //        sum += current;
+            //        current = current + (n - 1) * d;
+            //    }
+            //    return sum;
+            //}
+
+            double rez = 0;
             int counter = 0;
             int current = a;
 
             while (counter < n)
             {
-                rez2 += current;
+                rez += current;
                 current = current + (n - 1) * d;
-                n--;
                 counter++;
+                n--;
             }
-            return rez2;
+            return rez;
         }
     }
 }
