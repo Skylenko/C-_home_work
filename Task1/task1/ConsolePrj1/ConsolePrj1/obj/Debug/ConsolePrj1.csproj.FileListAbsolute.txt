@@ -1,7 +1,0 @@
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\obj\Debug\ConsolePrj1.csproj.CoreCompileInputs.cache
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\bin\Debug\ConsolePrj1.exe.config
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\bin\Debug\ConsolePrj1.exe
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\bin\Debug\ConsolePrj1.pdb
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\obj\Debug\ConsolePrj1.exe
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\obj\Debug\ConsolePrj1.pdb
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj1\ConsolePrj1\obj\Debug\ConsolePrj1.csprojResolveAssemblyReference.cache

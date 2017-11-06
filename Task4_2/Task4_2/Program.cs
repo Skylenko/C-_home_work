@@ -4,46 +4,36 @@
     {
         static void Main(string[] args)
         {
-            ArifmProgres arifm = new ArifmProgres();
-            double rez2 = arifm.SumOfFirstN();
+            ArifmeticProgress arifm = new ArifmeticProgress();
+            int rez = arifm.SumOfFirstArguments();
+            double rez2 = arifm.AverageOfArifmeticProgress();
         }
-
-        //static double AverageOfFirstN(int a, int d, int n)
-
-
-
     }
 
-    class ArifmProgres
+    class ArifmeticProgress
     {
-        int a = 3;
+        int a = 1;
         int d = 2;
-        int n = 1;
+        int n = 3;
 
-        public double SumOfFirstN()
+        public int SumOfFirstArguments()
         {
-            //    int current = a;
-            //    int sum = 0;
-            //    for (int i = current; i <= n; i++)
-            //    {
-            //        sum += current;
-            //        current = current + (n - 1) * d;
-            //    }
-            //    return sum;
-            //}
-
-            double rez = 0;
-            int counter = 0;
+            int rez = 0;
             int current = a;
 
-            while (counter < n)
+            if (d == 0) return 0;
+
+            for (int i = 1; i <= n; i++)
             {
+                current = a + (i - 1) * d;
                 rez += current;
-                current = current + (n - 1) * d;
-                counter++;
-                n--;
             }
             return rez;
+        }
+
+        public double AverageOfArifmeticProgress()
+        {
+            return SumOfFirstArguments() / n;
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace Task4_1
+﻿using System;
+
+namespace Task4_1
 {
     class Program
     {
@@ -6,22 +8,25 @@
         {
             Square square = new Square();
 
-            int perimetr = square.Perimetr();
-            int sq = square.SquareForm();
+            uint perimetr = square.Perimetr();
+            uint sq = square.SquareForm();
         }
     }
 
     class Square
     {
-        int a = 9;
-        public int Perimetr()
+        uint a = 9;
+
+        public uint Perimetr()
         {
+            if (a == 0) return 0;
             return 4 * a;
         }
 
-        public int SquareForm()
+        public uint SquareForm()
         {
-            return a * a;
+            if (a == 0) return 0;
+            return (uint)Math.Pow(a, 2);
         }
     }
 }

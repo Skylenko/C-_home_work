@@ -1,8 +1,0 @@
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Release\ConsolePrj2.exe.config
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Release\ConsolePrj2.exe
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Release\ConsolePrj2.pdb
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Release\ConsolePrj2.csproj.CoreCompileInputs.cache
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Release\ConsolePrj2.exe
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\obj\Release\ConsolePrj2.pdb
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Release\LibPrj3.dll
-C:\Users\Yuliia_Mykhailenko\source\repos\ConsolePrj2\ConsolePrj2\bin\Release\LibPrj3.pdb
