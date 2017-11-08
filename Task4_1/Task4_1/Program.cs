@@ -8,25 +8,25 @@ namespace Task4_1
         {
             Square square = new Square();
 
-            uint perimetr = square.Perimetr();
-            uint sq = square.SquareForm();
+            double perimetr = square.Perimetr();
+            double sq = square.SquareForm();
         }
     }
 
     class Square
     {
-        uint a = 9;
+        private uint a = 0;
 
-        public uint Perimetr()
+        public double Perimetr()
         {
-            if (a == 0) return 0;
+            if (a == 0) return double.NaN;
             return 4 * a;
         }
 
-        public uint SquareForm()
+        public double SquareForm()
         {
-            if (a == 0) return 0;
-            return (uint)Math.Pow(a, 2);
+            if (a == 0) return double.NaN;
+            return Math.Pow(a, 2);
         }
     }
 }
