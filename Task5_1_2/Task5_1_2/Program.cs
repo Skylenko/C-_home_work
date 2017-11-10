@@ -1,11 +1,15 @@
-﻿using LibraryForTask5;
-using System;
+﻿using System;
+using L
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Task5
+namespace Task5_1_2
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             //First task
             var intArray = new ArrayPascal(11, 5);
