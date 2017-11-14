@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9EC6D295-A14E-4A95-9566-B2DFAC2CF020}</ProjectGuid>
+    <ProjectGuid>{09C31F17-6245-4E5E-809F-456062BE2B37}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Task4_1</RootNamespace>
-    <AssemblyName>Task4_1</AssemblyName>
+    <RootNamespace>ConsolePrj2</RootNamespace>
+    <AssemblyName>ConsolePrj2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LibPrj3">
+      <HintPath>..\..\LibPrj3\LibPrj3\bin\Debug\LibPrj3.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,7 +47,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

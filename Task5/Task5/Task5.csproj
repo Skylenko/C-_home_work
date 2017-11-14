@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{075D6D11-C014-45DE-A0A1-FFBF0091FE71}</ProjectGuid>
+    <ProjectGuid>{7F68C144-EFBF-4C08-BFB0-1C7FC03D7654}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Task5</RootNamespace>
     <AssemblyName>Task5</AssemblyName>
@@ -32,13 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Library5, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Library5\Library5\bin\Debug\Library5.dll</HintPath>
-    </Reference>
-    <Reference Include="Library5_2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Library5_2\Library5_2\bin\Debug\Library5_2.dll</HintPath>
+    <Reference Include="Library5_2">
+      <HintPath>..\Library5_2\bin\Debug\Library5_2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
