@@ -1,0 +1,17 @@
+﻿[11/23/2017 10:29:09 AM Informational] ------ Load Playlist started ------
+[11/23/2017 10:29:09 AM Informational] ========== Load Playlist finished (0:00:00) ==========
+[11/23/2017 11:19:09 AM Informational] ------ Discover test started ------
+[11/23/2017 11:19:10 AM Informational] ========== Discover test finished: 1 found (0:00:01.0331869) ==========
+[11/23/2017 11:19:10 AM Informational] ------ Run test started ------
+[11/23/2017 11:19:24 AM Error] The active Test Run was aborted because the execution process exited unexpectedly. Check the execution process logs for more information. If the logs are not enabled, then enable the logs and try again.
+[11/23/2017 11:19:24 AM Informational] ========== Run test finished: 0 run (0:00:14.1511683) ==========
+[11/23/2017 11:19:51 AM Informational] ------ Discover test started ------
+[11/23/2017 11:19:52 AM Informational] ========== Discover test finished: 1 found (0:00:00.1361232) ==========
+[11/23/2017 11:19:52 AM Informational] ------ Run test started ------
+[11/23/2017 11:20:25 AM Error] The active Test Run was aborted because the execution process exited unexpectedly. Check the execution process logs for more information. If the logs are not enabled, then enable the logs and try again.
+[11/23/2017 11:20:25 AM Informational] ========== Run test finished: 0 run (0:00:33.1775347) ==========
+[11/23/2017 11:20:28 AM Informational] No tests found to run.
+[11/23/2017 11:20:34 AM Informational] No tests found to run.
+[11/23/2017 11:21:34 AM Informational] ------ Discover test started ------
+[11/23/2017 11:21:34 AM Informational] ========== Discover test finished: 1 found (0:00:00.1281545) ==========
+[11/23/2017 11:21:34 AM Informational] No tests found to run.
